@@ -1,0 +1,73 @@
+/* NavBar.css */
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 0px;
+  background: transparent; /* Fond transparent */
+  position: fixed; /* Fixer en haut de la page */
+  top: 0; /* Positionner en haut */
+  width: 100%; /* Prendre toute la largeur de la page */
+  z-index: 1000; /* S'assurer qu'il soit au-dessus des autres éléments */
+}
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white; /* Fond blanc */
+  border-radius: 50px; /* Forme ovale */
+  padding: 10px 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ajouter une légère ombre pour une meilleure visibilité */
+  width: 90%;
+}
+
+.nav-links {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links li {
+  margin: 0 10px;
+}
+
+.nav-links a {
+  color: #004080;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.nav-buttons {
+  display: flex;
+}
+
+.try-button,
+.demo-button {
+  border: none;
+  padding: 10px 20px;
+  border-radius: 50px; /* Forme ovale */
+  font-size: 16px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.try-button {
+  background-color: #ffcc00;
+  color: #004080;
+}
+
+.try-button:hover {
+  background-color: #e6b800;
+}
+
+.demo-button {
+  background-color: white;
+  color: #004080;
+  border: 2px solid #004080; /* Ajouter une bordure pour le bouton de démonstration */
+}
+
+.demo-button:hover {
+  background-color: #f0f0f0;
+}

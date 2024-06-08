@@ -1,0 +1,72 @@
+/* Header.css */
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 120px;
+  background: linear-gradient(90deg, #004080, #001f3f);
+  color: white;
+}
+
+.header-content {
+  max-width: 50%;
+}
+
+.header-content h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.header-description {
+  font-size: 18px;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.header-buttons {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px; /* Add some space between buttons and the paragraph */
+}
+
+.header-buttons .try-button {
+  background-color: #ffcc00;
+  color: #004080;
+  border: none;
+  padding: 10px 20px;
+  margin-right: 10px;
+  border-radius: 50px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.header-buttons .try-button:hover {
+  background-color: #e6b800;
+}
+
+.header-buttons .demo-button {
+  background-color: white;
+  color: #004080;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 50px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.header-buttons .demo-button:hover {
+  background-color: #f0f0f0;
+}
+
+.trial-info {
+  font-size: 14px;
+  color: rgb(212, 207, 207);
+  margin-top: 10px;
+  text-align: left;
+  font-style: italic;
+  margin-left: 10px;
+}
+
+.header-image img {
+  max-width: 100%;
+}

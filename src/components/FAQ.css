@@ -1,0 +1,58 @@
+/* FAQ.css */
+
+.faq-section {
+  padding: 50px 150px;
+  text-align: center;
+}
+
+.faq-title {
+  font-size: 36px;
+  color: #004080; /* Same blue as the title in the Installation component */
+  margin-bottom: 20px;
+}
+
+.faq-description {
+  font-size: 16px;
+  color: #333;
+  margin-bottom: 40px;
+  line-height: 1.5;
+}
+
+.faq-container {
+  margin-bottom: 40px;
+}
+
+.faq-item {
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+  cursor: pointer;
+}
+
+.faq-question {
+  display: flex;
+  justify-content: space-between;
+  font-size: 18px;
+  color: #004080; /* Same blue as the title in the Installation component */
+}
+
+.faq-answer {
+  margin-top: 10px;
+  font-size: 16px;
+  color: #333;
+}
+
+.faq-button {
+  background-color: #ffcc00;
+  color: #004080;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 30px; /* Rounded corners like NavBar buttons */
+  cursor: pointer;
+  font-size: 16px;
+  text-align: center;
+  display: inline-block;
+}
+
+.faq-button:hover {
+  opacity: 0.9;
+}

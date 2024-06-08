@@ -1,0 +1,84 @@
+/* Functionalities.css */
+.functionalities {
+  padding: 50px 20px;
+  text-align: center;
+}
+
+.solution-title {
+  font-size: 24px;
+  margin-bottom: 10px;
+  background: linear-gradient(90deg, #004080, #001f3f);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.functionalities-title {
+  font-size: 36px;
+  margin-bottom: 40px;
+  background: linear-gradient(90deg, #004080, #001f3f);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.functionalities-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.large-card {
+  width: 90%;
+  background: linear-gradient(90deg, #004080, #001f3f);
+  border-radius: 10px;
+  padding: 20px;
+  margin: 10px 0;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  color: white;
+  text-align: left;
+}
+
+.small-cards-container {
+  display: flex;
+  justify-content: space-between;
+  width: 93%;
+  margin-top: 20px;
+}
+
+.small-card {
+  width: 45%;
+  background: linear-gradient(90deg, #004080, #001f3f);
+  border-radius: 10px;
+  padding: 20px;
+  margin: 10px 0;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  color: white;
+  text-align: left;
+}
+
+.functionalitie-image {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.functionalitie-title {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.functionalitie-description {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.functionalitie-button {
+  background: none;
+  color: #ffcc00;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.functionalitie-button:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,48 @@
+/* Features.css */
+.features {
+  padding: 50px 20px;
+  text-align: center;
+}
+
+.features-title {
+  font-size: 36px;
+  margin-bottom: 40px;
+  background: linear-gradient(90deg, #004080, #001f3f);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.advantages-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.advantage-card {
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Slight shadow */
+  width: 20%; /* Adjust width as necessary for your layout */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; /* Align items to the left */
+}
+
+.advantage-logo {
+  width: 50px; /* Adjust size as needed */
+  height: 50px; /* Adjust size as needed */
+  margin-bottom: 10px;
+}
+
+.advantage-title {
+  font-size: 20px;
+  color: #004080;
+  margin-bottom: 10px;
+}
+
+.advantage-description {
+  font-size: 16px;
+  color: #333;
+}

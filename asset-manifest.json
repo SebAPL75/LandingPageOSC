@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/LandingPageOSC/static/css/main.0dd49928.css",
-    "main.js": "/LandingPageOSC/static/js/main.363bb0b5.js",
+    "main.js": "/LandingPageOSC/static/js/main.6ae8301a.js",
     "static/js/453.c0f1b464.chunk.js": "/LandingPageOSC/static/js/453.c0f1b464.chunk.js",
     "index.html": "/LandingPageOSC/index.html",
     "main.0dd49928.css.map": "/LandingPageOSC/static/css/main.0dd49928.css.map",
-    "main.363bb0b5.js.map": "/LandingPageOSC/static/js/main.363bb0b5.js.map",
+    "main.6ae8301a.js.map": "/LandingPageOSC/static/js/main.6ae8301a.js.map",
     "453.c0f1b464.chunk.js.map": "/LandingPageOSC/static/js/453.c0f1b464.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0dd49928.css",
-    "static/js/main.363bb0b5.js"
+    "static/js/main.6ae8301a.js"
   ]
 }

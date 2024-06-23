@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/LandingPageOSC/static/css/main.ef35fa95.css",
-    "main.js": "/LandingPageOSC/static/js/main.1f369c41.js",
+    "main.css": "/LandingPageOSC/static/css/main.24854de4.css",
+    "main.js": "/LandingPageOSC/static/js/main.7550a457.js",
     "static/js/453.c0f1b464.chunk.js": "/LandingPageOSC/static/js/453.c0f1b464.chunk.js",
+    "static/media/download.png": "/LandingPageOSC/static/media/download.e750ff6d70eb7e7cebc9.png",
+    "static/media/Logo.png": "/LandingPageOSC/static/media/Logo.8c3e5359adf182744128.png",
     "index.html": "/LandingPageOSC/index.html",
-    "main.ef35fa95.css.map": "/LandingPageOSC/static/css/main.ef35fa95.css.map",
-    "main.1f369c41.js.map": "/LandingPageOSC/static/js/main.1f369c41.js.map",
+    "main.24854de4.css.map": "/LandingPageOSC/static/css/main.24854de4.css.map",
+    "main.7550a457.js.map": "/LandingPageOSC/static/js/main.7550a457.js.map",
     "453.c0f1b464.chunk.js.map": "/LandingPageOSC/static/js/453.c0f1b464.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef35fa95.css",
-    "static/js/main.1f369c41.js"
+    "static/css/main.24854de4.css",
+    "static/js/main.7550a457.js"
   ]
 }
